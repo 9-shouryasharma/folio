@@ -170,14 +170,6 @@
       hsl(0, 0%, 90%),
       hsl(0, 0%, 65%));
 
-git init
-git add !@#$%^&*
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/9-shouryasharma/folio.git
-git push -u origin main
-
-
   /* solid colors */
   --jet: hsl(0, 0%, 25%);
   --onyx: hsl(0, 0%, 19%);
